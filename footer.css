@@ -1,0 +1,41 @@
+footer{
+    background-color:black;
+    height:100px;
+    width: 100%;
+    cursor:pointer;
+    position: absolute;
+    
+}
+.leftfooter {
+    display: inline;
+    align-items: center;
+    position: relative;
+    background-color: black;
+}
+.leftfooter img {
+    width: 20px;
+
+}
+.midfooter{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+   
+}
+
+.midfooter ul li{
+    background-color: black;
+   list-style:none;
+}
+.rightfooter{
+
+    
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    
+}
+.rightfooter ul li{
+    background-color: black;
+    list-style: none;
+}

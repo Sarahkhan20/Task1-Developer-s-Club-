@@ -1,0 +1,11 @@
+main {
+
+}
+.forms{
+    border: 1px solid white;
+    border-radius: 5px;
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    
+}

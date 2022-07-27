@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:  #171111;
+    color: aliceblue;
+}
+header{
+    background-color:black;
+    height:100px;
+    width: 100%;
+    cursor:pointer;
+    
+}
+
+header .leftnav {
+    display: inline;
+    align-items: center;
+    position: relative;
+    background-color: black;
+
+}
+.leftnav img{
+    width: 20px;
+
+}
+.rightnav{
+ position: relative;
+ float: right;
+ border: 0px;
+ outline: 0px;
+ 
+    
+}
+.rightnav ul li{
+    display: inline;
+    padding: 2rem ;
+    background-color: black;
+    margin: 0px 0px 0px 0px;
+    
+
+
+   
+
+}
+main{
+
+    position: absolute;
+    top: 50%;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+}
